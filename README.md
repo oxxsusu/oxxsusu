@@ -4,7 +4,7 @@
 ## 👋
 Hi there!  I'm **Backend developer** using `Spring Boot`.
 
-But now I'm studying `Dart` and `Flutter` for cross-platform developing.
+Now I'm also studying `Dart` and `Flutter` for cross-platform developing.
 
 <br>
 
