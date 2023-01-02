@@ -1,6 +1,4 @@
-<img src="https://img.shields.io/badge/velog-20C997?style=flat-round&logo=velog&logoColor=white"/>
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-round&logo=instagram&logoColor=white"/> 
-<img src="https://img.shields.io/badge/oxxsusu-181717?style=flat-round&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/velog-20C997?style=flat-round&logo=velog&logoColor=white"/> <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-round&logo=instagram&logoColor=white"/> <img src="https://img.shields.io/badge/oxxsusu-181717?style=flat-round&logo=github&logoColor=white"/>
 
 
 ## 👋
