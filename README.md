@@ -6,7 +6,7 @@ I'm student developer mainly studying `Back-end` and `DevOps`.
 
 ## Stack
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-round&logo=googlecloud&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-round&logo=googlecloud&logoColor=white"/> 
 
 <br>
 
