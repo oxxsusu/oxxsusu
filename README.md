@@ -6,6 +6,7 @@ Hi there! 👋 Just call me Jungmin or Jenna.
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-round&logo=googlecloud&logoColor=white"/> 
 
 ### 🔭 experiences
+- Sookmyung Women's University, B.S. in IT Engineering (GPA 4.01/4.5, Major GPA 4.36/4.5)
 - Google Developer Student Clubs (2022.09 - 2023.05)
 - AWS Student Club (2023.05 - 2023.12)
 - FinInsight development team intern (2023.09-2023.12)
