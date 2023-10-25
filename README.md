@@ -9,7 +9,7 @@ Hi there! 👋 Just call me Jungmin or Jenna.
 - Sookmyung Women's University, B.S. in IT Engineering (GPA 4.01/4.5, Major GPA 4.36/4.5)
 - Google Developer Student Clubs (2022.09 - 2023.05)
 - AWS Student Club (2023.05 - 2023.12)
-- Open Source Contribution Academy (OSSCA) Masters contributor (Azure Cloud Python SDK)
+- Open Source Contribution Academy(OSSCA), Azure Cloud Python SDK (2023.07 - 2023.10)
 - FinInsight development team intern (2023.09-2023.12)
 
 ### 📫 How to reach me:
