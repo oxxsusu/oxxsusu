@@ -16,7 +16,7 @@ Hi there! 👋 Just call me Jungmin or Jenna.
 <a href="https://velog.io/@codesusuzz"><img src="https://img.shields.io/badge/velog-20C997?style=flat-round&logo=velog&logoColor=white"/></a> <a href="https://github.com/oxxsusu"><img src="https://img.shields.io/badge/oxxsusu-181717?style=flat-round&logo=github&logoColor=white"/></a>
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hluvee)](https://solved.ac/hluvee)
 
 <!--
 **oxxsusu/oxxsusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
