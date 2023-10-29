@@ -1,4 +1,4 @@
-## Record things that I've learned and experienced ✈️
+cs## Record things that I've learned and experienced ✈️
 Hi there! 👋 Just call me Jungmin or Jenna.
 
 ### 🌱 I'm currently learning ...
@@ -10,7 +10,7 @@ Hi there! 👋 Just call me Jungmin or Jenna.
 - Google Developer Student Clubs (2022.09 - 2023.05)
 - AWS Student Club (2023.05 - 2023.12)
 - Open Source Contribution Academy(OSSCA), Azure Cloud Python SDK (2023.07 - 2023.10)
-- FinInsight development team intern (2023.09-2023.12)
+- FinInsight Development Team Intern (2023.09-2023.12)
 
 ### 📫 How to reach me:
 <a href="https://velog.io/@codesusuzz"><img src="https://img.shields.io/badge/velog-20C997?style=flat-round&logo=velog&logoColor=white"/></a> <a href="https://github.com/oxxsusu"><img src="https://img.shields.io/badge/oxxsusu-181717?style=flat-round&logo=github&logoColor=white"/></a>
