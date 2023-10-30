@@ -1,4 +1,4 @@
-cs## Record things that I've learned and experienced ✈️
+## Record things that I've learned and experienced ✈️
 Hi there! 👋 Just call me Jungmin or Jenna.
 
 ### 🌱 I'm currently learning ...
