@@ -1,10 +1,10 @@
 ## Hi there! 👋
 
-### 💼 I'm currently working on
+### 🚘 I'm currently working on ...
 
 LG Electronics Vehicle component Solutions, Software R&D (2024.01 -)
 
-### 🌱 I'm currently learning
+### 🌱 I'm currently learning ...
 
 <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-round&logo=googlecloud&logoColor=white"/> 
 
@@ -15,10 +15,6 @@ LG Electronics Vehicle component Solutions, Software R&D (2024.01 -)
 - AWS Student Club (2023.05 - 2023.12)
 - Open Source Contribution Academy(OSSCA), Azure Cloud Python SDK (2023.07 - 2023.10)
 - FinInsight Development Team Intern (2023.09 - 2023.12)
-
-
-### 📫 How to reach me:
-<a href="https://velog.io/@codesusuzz"><img src="https://img.shields.io/badge/velog-20C997?style=flat-round&logo=velog&logoColor=white"/></a> <a href="https://github.com/oxxsusu"><img src="https://img.shields.io/badge/oxxsusu-181717?style=flat-round&logo=github&logoColor=white"/></a>
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hluvee)](https://solved.ac/hluvee) -->
