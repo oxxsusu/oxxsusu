@@ -5,16 +5,17 @@ Hi there! 👋 Just call me Jungmin or Jenna.
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-round&logo=googlecloud&logoColor=white"/> 
 
-### 💼 Work experiences
+### 💼 I'm currently working on ...
 
-- FinInsight Development Team Intern (2023.09 - 2023.12)
-- LG Electronics Vehicle component Solutions, SW Engineer (2024.01 -)
+LG Electronics Vehicle component Solutions, Software R&D (2024.01 -)
 
-### 🔭 Activities
+### 🔭 Experiences
+
 - Sookmyung Women's University, B.S. in IT Engineering (Major GPA 4.36/4.5) (2018.03 - 2024.02)
 - Google Developer Student Clubs (2022.09 - 2023.05)
 - AWS Student Club (2023.05 - 2023.12)
 - Open Source Contribution Academy(OSSCA), Azure Cloud Python SDK (2023.07 - 2023.10)
+- FinInsight Development Team Intern (2023.09 - 2023.12)
 
 
 ### 📫 How to reach me:
