@@ -1,12 +1,12 @@
 ## Hi there! 👋
 
-### 🌱 I'm currently learning
-
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-round&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat"/>
-
 ### 💼 I'm currently working on
 
 LG Electronics Vehicle component Solutions, Software R&D (2024.01 -)
+
+### 🌱 I'm currently learning
+
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-round&logo=googlecloud&logoColor=white"/> 
 
 ### 🔭 Experiences
 
