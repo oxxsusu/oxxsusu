@@ -2,7 +2,7 @@
 
 ### 🚘 I'm currently working on ...
 
-LG Electronics Vehicle component Solutions, Software R&D (2024.01 -)
+Software R&D @ LG Electronics Vehicle component Solutions (2024.01 -)
 
 ### 🌱 I'm currently learning ...
 
@@ -14,7 +14,7 @@ LG Electronics Vehicle component Solutions, Software R&D (2024.01 -)
 - Google Developer Student Clubs (2022.09 - 2023.05)
 - AWS Student Club (2023.05 - 2023.12)
 - Open Source Contribution Academy(OSSCA), Azure Cloud Python SDK (2023.07 - 2023.10)
-- FinInsight Development Team Intern (2023.09 - 2023.12)
+- Development Team Intern @ FinInsight (2023.09 - 2023.12)
 
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hluvee)](https://solved.ac/hluvee) -->
