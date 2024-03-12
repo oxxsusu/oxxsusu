@@ -2,7 +2,7 @@
 
 ### 🚘 I'm currently working on ...
 
-Software R&D @ LG Electronics Vehicle component Solutions (2024.02 -)
+Release Manager @ LG Electronics Vehicle component Solutions (2024.02 -)
 
 ### 🌱 I'm currently learning ...
 
