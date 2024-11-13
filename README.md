@@ -3,6 +3,7 @@
 ### 🚘 I'm currently working on ...
 
 Release Manager @ LG Electronics Vehicle component Solutions (2024.02 -)
+- Volkswagen MQB Evo - MIB3 OI GP RM
 
 ### 🌱 I'm currently learning ...
 
