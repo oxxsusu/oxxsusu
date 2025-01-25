@@ -2,8 +2,11 @@
 
 ### 🚘 I'm currently working on ...
 
-Release Manager of Volkswagen MIB3 GP 
-@ LG Electronics Vehicle component Solutions (2024.02 -)
+@ LG Electronics Vehicle component Solutions
+- Release Leader of Toyota 24CY/LC, 26BEV DCM
+(2025.02~)
+- Release Manager of Volkswagen Cockpit2022+
+AVN Project (2024.03 - 2025.01)
 
 ### 🌱 I'm currently learning ...
 
