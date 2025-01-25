@@ -2,15 +2,11 @@
 
 ### 🚘 I'm currently working on ...
 
-@ LG Electronics Vehicle component Solutions
+DevOps Engineer @ LG Electronics Vehicle component Solutions
 - Release Leader of Toyota 24CY/LC, 26BEV DCM
 (2025.02~)
 - Release Manager of Volkswagen Cockpit2022+
 AVN Project (2024.03 - 2025.01)
-
-### 🌱 I'm currently learning ...
-
-<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud Platform-4285F4?style=flat-round&logo=googlecloud&logoColor=white"/> 
 
 ### 🔭 Experiences
 
