@@ -2,7 +2,7 @@
 
 ### 🚘 I'm currently working on ...
 
-DevOps Engineer @ LG Electronics Vehicle component Solutions
+DevOps Engineer @ LG Electronics, Dpt of Vehicle Solutions
 - Release Leader of Toyota 24CY/LC, 26BEV DCM
 (2025.02~)
 - Release Manager of Volkswagen Cockpit2022+
