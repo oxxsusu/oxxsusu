@@ -3,11 +3,7 @@
 ### 🚘 I'm currently working on ...
 
 DevOps Engineer @ LG Electronics, Dpt of Vehicle Solutions
-- Release Leader of Toyota 24CY/LC, 26BEV DCM
-(2025.02~)
-- Release Manager of Volkswagen Cockpit2022+
-AVN Project (2024.03 - 2025.01)
-
+- Release Leader of Volkswagen AVN, Toyota Telematics
 ### 🔭 Experiences
 
 - Development Team Intern @ FinInsight (2023.09 - 2023.12)
