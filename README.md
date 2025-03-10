@@ -3,7 +3,7 @@
 ### 🚘 I'm currently working on ...
 
 DevOps Engineer @ LG Electronics, Dpt of Vehicle Solutions
-- Release Leader of Volkswagen AVN, Toyota Telematics
+
 ### 🔭 Experiences
 
 - Development Team Intern @ FinInsight (2023.09 - 2023.12)
