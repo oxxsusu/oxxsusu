@@ -2,7 +2,7 @@
 
 ### 🚘 I'm currently working on ...
 
-DevOps Engineer @ LG Electronics, Dpt of Vehicle Solutions
+DevOps Engineer @ LG Electronics, Dpt of Vehicle Solutions (2024.02 ~ )
 
 ### 🔭 Experiences
 
